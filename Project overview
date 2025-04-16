@@ -1,0 +1,21 @@
+Project Overview Response
+🔹 What is this project about?
+This project focused on analyzing the spread of COVID-19 in U.S. prison systems using real-world datasets. 
+We visualized infection rates across facilities to uncover trends, identify high-risk areas, and assist in data-driven public health decisions.
+
+🔹 What problem does it solve?
+U.S. prisons experienced disproportionately high COVID-19 infection rates, especially in overcrowded facilities. 
+This project aimed to uncover data-backed evidence of those trends and present them through intuitive dashboards 
+to support policymakers in identifying facilities that required urgent intervention.
+
+🔹 What was your role?
+I led the analysis for Hypothesis 1: Overcrowded prisons have significantly higher COVID-19 infection rates compared to those operating within capacity. 
+I cleaned the relevant data, built interactive Power BI visualizations, and presented actionable insights. 
+My visual analysis clearly highlighted a 20% higher infection rate in overcrowded facilities, validating the hypothesis.
+
+🔹 Technologies used?
+Excel: Data cleaning and preparation
+Power BI: Data visualization and dashboard creation
+Tableau (supporting visual exploration by team)
+
+
