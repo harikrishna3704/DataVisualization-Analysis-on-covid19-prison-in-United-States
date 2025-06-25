@@ -32,6 +32,9 @@ We framed and addressed multiple hypotheses to solve the core problem:
 📌 Hypothesis 1 (My Contribution):
 "Overcrowded prisons have a significantly higher COVID-19 infection rate compared to those operating at or below capacity."
 
+<img width="1221" alt="Screenshot 2025-06-25 at 12 43 41 AM" src="https://github.com/user-attachments/assets/3adc3981-0156-42d8-92ce-49ac9c88bffb" />
+
+
 You can watch my visualisations in this ppt.
 📑 [Download Hypothesis 1 PPT](https://github.com/harikrishna3704/covid19-prison-analysis/blob/main/Hypothesis1_Presentation.pptx)
 
