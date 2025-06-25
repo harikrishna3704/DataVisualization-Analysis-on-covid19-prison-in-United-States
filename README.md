@@ -39,8 +39,7 @@ You can watch my visualisations in this ppt.
 📑 [Download Hypothesis 1 PPT](https://github.com/harikrishna3704/covid19-prison-analysis/blob/main/Hypothesis1_Presentation.pptx)
 
 
-👨‍💻 My Role
-I was responsible for:
+👨‍💻 I was responsible for:
 
 Cleaning and transforming the raw dataset using Excel
 
