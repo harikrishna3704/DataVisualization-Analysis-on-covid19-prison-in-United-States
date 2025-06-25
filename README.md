@@ -1,4 +1,4 @@
-## COVID-19-Data-Visualization-in-Overcrowded-U.S-Prisons
+# COVID-19-Data-Visualization-in-Overcrowded-U.S-Prisons
 
 A data-driven analysis exploring the impact of overcrowding on COVID-19 infection rates in U.S. prisons, visualized through dynamic dashboards in Power BI and Tableau.
 
