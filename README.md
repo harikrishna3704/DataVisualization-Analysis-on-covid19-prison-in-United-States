@@ -1,4 +1,8 @@
-# Visualizing COVID-19 Spread in Overcrowded U.S. Prisons – Hypothesis 1 Focus
+# COVID-19-Data-Visualization-in-Overcrowded-U.S-Prisons
+
+A data-driven analysis exploring the impact of overcrowding on COVID-19 infection rates in U.S. prisons, visualized through dynamic dashboards in Power BI and Tableau.
+
+## Visualizing COVID-19 Spread in Overcrowded U.S. Prisons – Hypothesis 1 Focus
 
 ## **🧾 Overview**
 This project involves a comprehensive data analysis of COVID-19 infection trends in U.S. prisons, with a focus on visualizing overcrowding effects on infection rates. Using Excel for data preparation and Power BI/Tableau for visualization, we explored various hypotheses and presented data-backed insights for decision-making.
